@@ -15,8 +15,15 @@ I'm interested in the field of Website Development, such as Back-End Developer o
 </p>
 
 ### Reach me on :
-- ⚡ Linkedin   : <a href="https://www.linkedin.com/in/paramita-aditung-6831251b0">@Paramita Aditung</a>
-- ⚡ Github    : <a href="https://github.com/MimiPA">@MimiPA</a>
+- ⚡ Linkedin : <a href="https://www.linkedin.com/in/paramita-aditung-6831251b0">@Paramita Aditung</a>
+- ⚡ Github   : <a href="https://github.com/MimiPA">@MimiPA</a>
 - ⚡ Email    : <a href="mailto:paramitaaditung@gmail.com">Paramita</a>
+
+### My Certificate :
+- <a href="https://www.dicoding.com/certificates/0LZ0D8110X65">Belajar Dasar Pemrograman JavaScript</a>
+- <a href="https://www.dicoding.com/certificates/KEXL4OWLWXG2">Belajar Membuat Aplikasi Back-End untuk Pemula</a>
+- <a href="https://www.dicoding.com/certificates/07Z65LRDWXQR">Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)</a>
+- <a href="https://www.dicoding.com/certificates/RVZK1L2REPD5">Architecting on AWS (Membangun Arsitektur Cloud di AWS)</a>
+- <a href="https://www.dicoding.com/certificates/1RXYY6RD1XVM">Belajar Dasar Git dengan GitHub</a>
 
 ### Thank You 😄
