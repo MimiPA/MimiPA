@@ -25,5 +25,7 @@ I'm interested in the field of Website Development, such as Back-End Developer o
 - <a href="https://www.dicoding.com/certificates/07Z65LRDWXQR">Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)</a>
 - <a href="https://www.dicoding.com/certificates/RVZK1L2REPD5">Architecting on AWS (Membangun Arsitektur Cloud di AWS)</a>
 - <a href="https://www.dicoding.com/certificates/1RXYY6RD1XVM">Belajar Dasar Git dengan GitHub</a>
+- <a href="https://www.dicoding.com/certificates/ERZR582RWPYV">Memulai Pemrograman Dengan Kotlin</a>
+- <a href="https://www.dicoding.com/certificates/453XE66MYXRN">Belajar Membuat Aplikasi Android untuk Pemula</a>
 
 ### Thank You 😄
