@@ -27,5 +27,10 @@ I'm interested in the field of Website Development, such as Back-End Developer o
 - <a href="https://www.dicoding.com/certificates/1RXYY6RD1XVM">Belajar Dasar Git dengan GitHub</a>
 - <a href="https://www.dicoding.com/certificates/ERZR582RWPYV">Memulai Pemrograman Dengan Kotlin</a>
 - <a href="https://www.dicoding.com/certificates/453XE66MYXRN">Belajar Membuat Aplikasi Android untuk Pemula</a>
+- <a href="https://www.dicoding.com/certificates/6RPNKNGQ4P2M">Memulai Pemrograman Dengan Python</a>
+- <a href="https://www.dicoding.com/certificates/NVP7G4K14XR0">Belajar Machine Learning untuk Pemula</a>
+- <a href="https://www.dicoding.com/certificates/QEYX4WQYJPDL">Belajar Dasar Visualisasi Data</a>
+- <a href="https://www.dicoding.com/certificates/QLZ98VK2EX5D">Meniti Karier sebagai Software Developer</a>
+- <a href="https://www.dicoding.com/certificates/QLZ98VKD9X5D">Memulai Dasar Pemrograman untuk Menjadi Pengembang Software</a>
 
 ### Thank You 😄
